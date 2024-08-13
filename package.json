@@ -2,7 +2,7 @@
   "name": "rds-postgres",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sarunikss/rds-postgres.git"
+    "url": "https://github.com/saruniks/rds-postgres.git"
   },
   "scripts": {
     "build": "npx projen build",
@@ -68,7 +68,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "0.0.0",
+  "version": "0.0.1",
   "jest": {
     "coverageProvider": "v8",
     "testMatch": [

@@ -7,7 +7,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
   jsiiVersion: '~5.4.0',
   name: 'rds-postgres',
   projenrcTs: true,
-  repositoryUrl: 'https://github.com/sarunikss/rds-postgres.git',
+  repositoryUrl: 'https://github.com/saruniks/rds-postgres.git',
 
   // deps: [],                /* Runtime dependencies of this module. */
   // description: undefined,  /* The description is just a string that helps people understand the purpose of the package. */
