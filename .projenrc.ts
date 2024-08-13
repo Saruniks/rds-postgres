@@ -2,7 +2,7 @@ import { awscdk } from 'projen';
 const project = new awscdk.AwsCdkConstructLibrary({
   author: 'sarunas.gincas',
   authorAddress: 'sarunikss@gmail.com',
-  cdkVersion: '2.1.0',
+  cdkVersion: '2.151.0',
   defaultReleaseBranch: 'main',
   jsiiVersion: '~5.4.0',
   name: 'rds-postgres',
